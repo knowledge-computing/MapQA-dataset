@@ -2,7 +2,8 @@
 # MapQA: Open-domain Geospatial Question Answering on Map Data
 <img width="400" alt="logo1" src="https://github.com/user-attachments/assets/e6c75371-1c7e-42df-a9f1-ecdb5ca8f27c" />
 
-
+## 1-Minute Short Video Presentation
+[video link](https://drive.google.com/file/d/17dShHX0gc7cPi0Vqcpoqhr75Iz1cl3c-/view?usp=sharing)
 
 ## Overview
 This dataset is designed for geospatial question answering (QA) tasks and contains data for two different approaches:
