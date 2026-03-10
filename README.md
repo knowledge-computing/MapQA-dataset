@@ -81,3 +81,11 @@ github-dataset/
 ## Statistics
 The final dataset consists of 3,154 question-answer pairs categorized into 9 types. For the Southern California region, which includes 2,206 pairs, we divide 80% of them into training samples and 20% into testing samples. During model training, the training samples were further split into train and validation sets with an 80/20 ratio. The Illinois region serves as the zero-shot learning evaluation set, containing a total of 948 samples.
 
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+You are free to use, modify, and share the code for **non-commercial purposes** with proper attribution.
+
+
