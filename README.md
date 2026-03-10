@@ -88,4 +88,4 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 
 You are free to use, modify, and share the code for **non-commercial purposes** with proper attribution.
 
-
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
